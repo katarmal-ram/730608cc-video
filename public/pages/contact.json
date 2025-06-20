@@ -1,50 +1,61 @@
-
 {
-  "meta": {
-    "title": "Contact Us - Ashapura Brass Industries",
-    "description": "Get in touch with Ashapura Brass Industries for your precision brass manufacturing needs"
-  },
   "hero": {
     "type": "image",
+    "title": "Contact Arpit Brass Precision Components",
     "enabled": true,
-    "title": "Contact Us",
-    "subtitle": "Get in touch with our experts",
-    "description": "Ready to discuss your brass manufacturing requirements? Contact our team today.",
-    "backgroundImage": "https://images.unsplash.com/photo-1423666639041-f56000c27a9a?auto=format&fit=crop&w=2000&q=80"
+    "subtitle": "Your Precision Manufacturing Partner is Just a Message Away",
+    "description": "Ready to discuss your precision component requirements? Our expert team is prepared to provide tailored solutions for automotive, hydraulic, and pneumatic sectors.",
+    "backgroundImage": "https://images.unsplash.com/photo-1517048676732-d65bc9c4c4e1?ixlib=rb-4.0.3&q=80&w=1920&auto=format"
+  },
+  "meta": {
+    "title": "Arpit Brass - Precision Components Manufacturing | Get Quote Today",
+    "description": "Connect with Arpit Brass for top-quality precision components. Expert manufacturers with 16 years of experience. Quick response guaranteed!"
   },
   "sections": {
-    "contactInfo": {
-      "type": "contact-info",
-      "enabled": true,
-      "title": "Contact Information",
-      "subtitle": "Multiple ways to reach us",
-      "items": [
-        {
-          "type": "address",
-          "title": "Our Location",
-          "content": "Plot No. 42, Brass Industrial Estate, Jamnagar - 361004, Gujarat, India",
-          "icon": "map-pin"
-        },
-        {
-          "type": "phone",
-          "title": "Phone",
-          "content": "+91 288 271 0234",
-          "icon": "phone"
-        },
-        {
-          "type": "email",
-          "title": "Email",
-          "content": "info@ashapurabrass.com",
-          "icon": "mail"
-        }
-      ]
-    },
     "contactForm": {
       "type": "contact-form",
+      "items": [],
+      "title": "Send Your Inquiry",
       "enabled": true,
-      "title": "Send us a Message",
-      "subtitle": "Fill out the form and we'll get back to you within 24 hours",
-      "items": []
+      "subtitle": "Fill out the form and our team will respond within 24 hours with a comprehensive solution"
+    },
+    "contactInfo": {
+      "type": "contact-info",
+      "items": [
+        {
+          "icon": "map-pin",
+          "type": "address",
+          "title": "Our Locations",
+          "content": "Head Office: Rajkot, Manufacturing Unit: Jamnagar District, Gujarat, India"
+        },
+        {
+          "icon": "phone",
+          "type": "phone",
+          "title": "Contact Numbers",
+          "content": "+91 98765 43210, +91 99999 88888"
+        },
+        {
+          "icon": "mail",
+          "type": "email",
+          "title": "Email Us",
+          "content": "info@arpitbrass.com, sales@arpitbrass.com"
+        },
+        {
+          "icon": "linkedin",
+          "type": "social",
+          "title": "Connect on LinkedIn",
+          "content": "Arpit Brass Official"
+        },
+        {
+          "icon": "whatsapp",
+          "type": "messaging",
+          "title": "WhatsApp Support",
+          "content": "+91 98765 43210"
+        }
+      ],
+      "title": "Multiple Ways to Connect",
+      "enabled": true,
+      "subtitle": "We're accessible through multiple channels to ensure smooth communication"
     }
   }
 }
